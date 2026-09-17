@@ -12,9 +12,9 @@ const ipmilData = {
         {
             id: "prj-4",
             title: "Bupati Luwu Utara Perkenalkan Rencana POLTEKIS di Hadapan Mahasiswa Luwu Raya",
-            year: "2024",
+            year: "2026",
             description: "Bupati Luwu Utara memperkenalkan rencana pembangunan POLTEKIS kepada mahasiswa Luwu Raya di Yogyakarta (sumber: Daulat Rakyat).",
-            imageUrl: "https://images.unsplash.com/photo-1540317580384-e5d43616b9aa?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+            imageUrl: "poltekis.jpg",
             link: "https://share.google/W1OH1vDAmJHR5Cmvt"
         },
         {
