@@ -47,6 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="project-badge">${project.year}</span>
                     <h3 class="project-title">${project.title}</h3>
                     <p>${project.description}</p>
+                    ${project.link ? `<a href="${project.link}" target="_blank" rel="noopener" style="display:inline-block; margin-top:10px; color: #F9C013; font-weight:bold;">Baca Selengkapnya &rarr;</a>` : ''}
                 </div>
             `;
             projectGrid.appendChild(card);
