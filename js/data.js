@@ -60,6 +60,13 @@ const ipmilData = {
             role: "Bendahara Umum",
             department: "Badan Pengurus Harian",
             imageUrl: "IMG_1404 (1).PNG"
+        },
+        {
+            id: "bm-4",
+            name: "Arya Syaputra",
+            role: "Kepala Bidang Aksi dan Advokasi",
+            department: "Bidang Aksi dan Advokasi",
+            imageUrl: "arya.jpg"
         }
     ]
 };
