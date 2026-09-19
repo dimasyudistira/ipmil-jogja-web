@@ -66,7 +66,7 @@ const ipmilData = {
             name: "Arya Syaputra",
             role: "Kepala Bidang Aksi dan Advokasi",
             department: "Bidang Aksi dan Advokasi",
-            imageUrl: "arya.jpg"
+            imageUrl: "arya.jpeg"
         }
     ]
 };
